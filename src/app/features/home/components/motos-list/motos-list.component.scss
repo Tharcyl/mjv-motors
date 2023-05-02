@@ -1,0 +1,22 @@
+// img{
+//     width: 200px;    
+//     height: 130px;
+// }
+
+// .card{
+//     border-color: black;
+// }
+
+.container{
+    // display: flex;
+    flex-direction: row;
+    margin: 20px;
+    
+}
+
+#card{
+    display: flex;
+    margin-left: 75px;
+}
+
+
